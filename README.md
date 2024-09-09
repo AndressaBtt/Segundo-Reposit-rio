@@ -4,6 +4,6 @@ Este é um arquivo readme onde a lógica de programação está envolvente, por 
 
 ## Pré-Requisitos
 
-- Primeiramente, precisará do "Portugol Studio" para executar esse programa. [Link para download](https://univali-lite.github.io/Portugol-Studio/)
+- Primeiramente, precisará do "Portugol Studio" para executar esse programa. ([Link para download](https://univali-lite.github.io/Portugol-Studio/))
 - Após entrar no site clique em "download", assim que terminar de baixar, execute o programa na pasta que você salvou!
 - Pronto! 🤩 Agora você poderá usar o meu arquivo e testar!!
