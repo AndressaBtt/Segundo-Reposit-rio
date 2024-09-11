@@ -39,3 +39,10 @@ Escolha um salgadinho pela linha de 1 até 6: 1
 Escolha um salgadinho pela coluna de 1 até 5: 1
 Você adquiriu o salgadinho: Coxinha
 Boa degustação, volte sempre :D
+```
+
+## Colaboradores
+
+Este repositório foi compartilhado com:
+
+- [Isabelly Balbinot](https://github.com/IsabellyBalbinotal)
