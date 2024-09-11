@@ -45,4 +45,4 @@ Boa degustação, volte sempre :D
 
 Este repositório foi compartilhado com:
 
-- [Isabelly Balbinot](https://github.com/IsabellyBalbinotal)
+- [Isabelly Balbinot](https://github.com/IsabellyBalbinot)
