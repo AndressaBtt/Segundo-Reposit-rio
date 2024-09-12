@@ -25,21 +25,8 @@ O programa é dividido em três partes principais:
 
 ## ✨ Exemplo de Uso
 
-```plaintext
-==================================
-=== | MÁQUINA DE SALGADINHOS | ===
-==================================
-Digite o nome do salgadinho [1][1]: Coxinha
-Digite o nome do salgadinho [1][2]: Empada
-...
-Salgadinhos Disponiveis na Máquina:
-[1][1]: Coxinha    [1][2]: Empada    
-...
-Escolha um salgadinho pela linha de 1 até 6: 1
-Escolha um salgadinho pela coluna de 1 até 5: 1
-Você adquiriu o salgadinho: Coxinha
-Boa degustação, volte sempre :D
-```
+![Captura de tela 2024-09-12 193817](https://github.com/user-attachments/assets/b4f958ad-6200-47ad-b917-2cce58e41826)
+
 
 ## 👩 Colaboradores
 
